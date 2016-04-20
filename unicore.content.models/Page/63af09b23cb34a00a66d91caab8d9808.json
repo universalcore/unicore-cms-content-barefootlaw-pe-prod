@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Art\u00edculo 32", 
+  "language": "spa_ES", 
+  "title": "El trabajo infantil", 
+  "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
+  "created_at": "2016-04-20T19:51:15.074614+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-20T19:51:15.074863+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "El ni\u00f1o tiene derecho a estar protegido contra los trabajos peligrosos para su salud o que le impidan ir a la escuela. No pueden trabajar hasta cumplir una edad m\u00ednima y, si lo hacen, se deben cumplir condiciones apropiadas en los horarios y en el trabajo en s\u00ed.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "6f7b230f21f64ee2a541a1e20c434ed4", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "el-trabajo-infantil", 
+  "uuid": "63af09b23cb34a00a66d91caab8d9808"
+}
