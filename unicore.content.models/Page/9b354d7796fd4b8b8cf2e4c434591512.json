@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Art\u00edculo 39", 
+  "language": "spa_ES", 
+  "title": "Recuperaci\u00f3n y reinserci\u00f3n social", 
+  "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
+  "created_at": "2016-04-20T19:32:52.009618+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-20T19:32:52.009855+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Si han sufrido malos tratos, explotaci\u00f3n, abandono o han estado en una guerra, tienen derecho a que se ocupen de ellos para recuperarlos f\u00edsica, social y psicol\u00f3gicamente.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "cd3caab9de5f400e9299bee3e6425fb9", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "recuperacion-y-reinsercion-social", 
+  "uuid": "9b354d7796fd4b8b8cf2e4c434591512"
+}
