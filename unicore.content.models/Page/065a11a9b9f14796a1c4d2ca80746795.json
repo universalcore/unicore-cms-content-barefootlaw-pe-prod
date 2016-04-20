@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_ES", 
+  "title": "No discriminaci\u00f3n", 
+  "primary_category": null, 
+  "created_at": "2016-04-20T19:01:44.674864+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-20T19:01:44.675072+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Todos los ni\u00f1os y ni\u00f1as tienen los derechos recogidos en\r\nla Convenci\u00f3n: no importa de d\u00f3nde sean, ni de qu\u00e9 sexo\r\no color de piel, ni qu\u00e9 lengua hablen, ni la situaci\u00f3n\r\necon\u00f3mica de su familia, ni sus creencias o la de sus\r\npadres, ni si padecen de alguna minusval\u00eda.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "no-discriminacion", 
+  "uuid": "065a11a9b9f14796a1c4d2ca80746795"
+}
