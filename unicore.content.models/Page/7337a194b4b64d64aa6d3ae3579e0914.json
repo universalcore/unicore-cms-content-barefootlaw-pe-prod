@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Art\u00edculo 35", 
+  "language": "spa_ES", 
+  "title": "La venta y el secuestro de ni\u00f1os", 
+  "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
+  "created_at": "2016-04-20T19:40:49.111450+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-20T19:40:49.111689+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Los gobiernos deben tomar todas las medidas que sean necesarias para impedir la venta, la trata y el secuestro de ni\u00f1os y ni\u00f1as.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "8fb9f8ffe6564d7d924ab78dda8ce8b8", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "la-venta-y-el-secuestro-de-ninos", 
+  "uuid": "7337a194b4b64d64aa6d3ae3579e0914"
+}
