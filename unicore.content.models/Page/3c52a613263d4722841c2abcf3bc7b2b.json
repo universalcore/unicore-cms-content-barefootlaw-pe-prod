@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Art\u00edculo 28", 
+  "language": "spa_ES", 
+  "title": "La educaci\u00f3n", 
+  "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
+  "created_at": "2016-04-20T20:05:47.889387+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-20T20:05:47.889648+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Los ni\u00f1os tienen derecho a la educaci\u00f3n. La educaci\u00f3n primaria debe ser obligatoria y gratuita, y todos tienen que contar con las facilidades para poder acceder al nivel secundario o ir a la universidad. Los gobiernos deben colaborar para que esto sea una realidad en todo el mundo.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "468e498cc17245908428e78c998328b4", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "la-educacion", 
+  "uuid": "3c52a613263d4722841c2abcf3bc7b2b"
+}
