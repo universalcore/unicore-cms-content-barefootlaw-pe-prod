@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Art\u00edculo 2", 
+  "language": "spa_ES", 
+  "title": "No discriminaci\u00f3n", 
+  "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
+  "created_at": "2016-04-21T08:50:44.556374+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-21T08:50:44.556620+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Todos los ni\u00f1os y ni\u00f1as tienen los derechos recogidos en la Convenci\u00f3n: no importa de d\u00f3nde sean, ni de qu\u00e9 sexo o color de piel, ni qu\u00e9 lengua hablen, ni la situaci\u00f3n econ\u00f3mica de su familia, ni sus creencias o la de sus padres, ni si padecen de alguna minusval\u00eda.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "7089e64a4acf443da6ecf3ca20c5f90e", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "no-discriminacion", 
+  "uuid": "32c11f2ac03f4d13823c1fd0d9041db5"
+}
