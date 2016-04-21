@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Art\u00edculo 27", 
+  "language": "spa_ES", 
+  "title": "El nivel de vida", 
+  "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
+  "created_at": "2016-04-21T05:44:03.382479+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-21T05:44:03.382732+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Los ni\u00f1os y ni\u00f1as tienen derecho a un nivel de vida adecuado para su desarrollo f\u00edsico, mental, espiritual, moral y social. Los padres son los responsables de que ellos cuenten con lo necesario para vivir de una forma digna (en especial vivienda, nutrici\u00f3n y vestido). Si ellos no pueden proporcion\u00e1rselo, las autoridades deben ayudarlos.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "0fe35849618442f98d6c19bea5ab217e", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "el-nivel-de-vida", 
+  "uuid": "4f08c4a0788041818e4cdfcfa10bad67"
+}
