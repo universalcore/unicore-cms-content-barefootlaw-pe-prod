@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Art\u00edculo 13", 
+  "language": "spa_ES", 
+  "title": "Libertad de expresi\u00f3n", 
+  "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
+  "created_at": "2016-04-21T08:23:13.733315+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-21T08:23:13.733511+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Tienen derecho a expresar libremente sus opiniones, a recibir y difundir informaciones e ideas de todo tipo, siempre que no vayan en contra de los derechos de otras personas.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "7cce85ecf172453eaa6b344481eeeb4a", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "libertad-de-expresion", 
+  "uuid": "ec74239889f243e88a857642997be70f"
+}
