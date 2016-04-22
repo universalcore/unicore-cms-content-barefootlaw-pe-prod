@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "8ee6993078a54d529f993b0faf450bc9"
+  ], 
   "id": null, 
   "content": "Si tienen capacidades f\u00edsicas o mentales diferentes, los ni\u00f1os y ni\u00f1as tienen derecho a cuidados y atenciones especiales que garanticen su educaci\u00f3n y capacitaci\u00f3n con el fin de ayudarlos a que disfruten de una vida plena.\r\n\r\nSiguiente art\u00edculo:", 
   "source": null, 
