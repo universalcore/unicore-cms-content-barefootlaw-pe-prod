@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "e8eb6b736aa54d04b3a48f1ac3640b0e"
+  ], 
   "id": null, 
   "content": "Los ni\u00f1os tienen derecho a la educaci\u00f3n. La educaci\u00f3n primaria debe ser obligatoria y gratuita, y todos tienen que contar con las facilidades para poder acceder al nivel secundario o ir a la universidad. Los gobiernos deben colaborar para que esto sea una realidad en todo el mundo.\r\n\r\nSiguiente art\u00edculo:", 
   "source": null, 
