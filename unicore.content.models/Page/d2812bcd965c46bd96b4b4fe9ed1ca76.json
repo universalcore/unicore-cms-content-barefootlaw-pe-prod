@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "8f4bbc20e89f4820b1c5ee30b1fd7cf5"
+  ], 
   "id": null, 
   "content": "El ni\u00f1o no ser\u00e1 sometido a torturas ni a otros tratos o penas crueles. Si han cometido un delito no se le impondr\u00e1 la pena de muerte ni la de prisi\u00f3n perpetua. Si es juzgado y considerado culpable solo deber\u00e1 ser internado en un establecimiento como \u00faltimo recurso y s\u00f3lo el tiempo m\u00ednimo para cumplir su castigo. Nunca deber\u00e1 estar en las mismas prisiones que las personas adultas y tendr\u00e1 derecho a mantener contacto con su familia.\r\n\r\nSiguiente art\u00edculo:", 
   "source": null, 
