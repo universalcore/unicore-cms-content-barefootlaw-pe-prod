@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "1ce505044ba54f109406a4ea5452dd26"
+  ], 
   "id": null, 
   "content": "Si est\u00e1 internado o internada en un establecimiento para protegerlo o para curarlo de una enfermedad f\u00edsica o mental, se debe revisar peri\u00f3dicamente su situaci\u00f3n para comprobar que el internamiento sea apropiado y no se prolongue m\u00e1s de la cuenta.\r\n\r\nSiguiente art\u00edculo:", 
   "source": null, 
