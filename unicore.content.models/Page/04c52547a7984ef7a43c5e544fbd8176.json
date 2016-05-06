@@ -6,12 +6,12 @@
   "primary_category": "b997cb6d9fd94c678eb1538650f5609f", 
   "created_at": "2016-04-21T06:16:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-22T05:27:47.714171+00:00", 
+  "modified_at": "2016-05-06T11:59:31.474331+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "674531b809914fb3858be173b2ed7c62", 
   "published": null, 
-  "position": 38, 
+  "position": 25, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "condiciones-de-internamiento", 
   "uuid": "04c52547a7984ef7a43c5e544fbd8176"
